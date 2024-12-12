@@ -8,3 +8,8 @@ This is a computer vision project which uses hand gestures to control a vending 
 
 <h2>Demo:</h2>
 https://youtu.be/9UYQtpTMQgA
+
+<h2>Dataset:</h2>
+https://drive.google.com/drive/folders/12UVcFmmalwYw8VukDaYNA6i6htZkysY0?usp=sharing
+
+
