@@ -1,6 +1,4 @@
-# Final-Project-IAT-360
-
-<h1>Hand Gesture Computer Vision Project</h1>
+# Final-Project-IAT-360: Hand Gesture Vending Machine Using Computer Vision 
 
 <h2>About</h2>
 <h3>Model</h3>
